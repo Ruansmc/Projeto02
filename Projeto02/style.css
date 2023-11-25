@@ -1,17 +1,39 @@
-#globo {
+#globo img {
     margin: 0px auto 52px;
-    width: 100px;
+    align-items: center;
+    
 }
 
 h1{
-    margin: auto;
+    text-align: center;
+    font-size: 32px;
+    color: #3F3D56;
+    font-weight: 500;
 }
 
-p{
+
+#wave img{
+    width: 1024px;
+    height: 104px;
+    flex-shrink: 0;
 }
+p{
+    text-align: center;
+    color: #3F3D56;
+    font-weight: 500;
+}
+
+#a{
+    margin: center;
+    color: #3F3D56;
+}
+
+span{
+    color: #EE24FF}
+
 
 
 strong {
-    color: rgb(197, 27, 160)
+    color: rgb(76, 55, 120)
 }
 

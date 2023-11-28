@@ -1,35 +1,50 @@
-#globo img {
-    margin: 0px auto 52px;
-    align-items: center;
-    
-}
-
-h1{
+body {
     text-align: center;
-    font-size: 32px;
-    color: #3F3D56;
-    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
 }
 
+h1 span {
+    font-weight: bold;
+}
 
-#wave img{
+#wave{
     width: 1024px;
     height: 104px;
     flex-shrink: 0;
+    margin: center;
 }
-p{
-    text-align: center;
+
+
+
+h1{
+    font-size: 32px;
+    font-family: 'Dosis', sans-serif;
     color: #3F3D56;
 }
 
+
+p{  
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #828282;
+    line-height: 22px;
+    font-weight: 400;
+    margin-left: 100px;
+
+    flex-shrink: 0;
+}
+
 #a{
-    margin: center;
     color: #3F3D56;
 }
 
 span{
-    color: #EE24FF}
+    color: #EE24FF
+}
 
+#span2{
+    color:#828282;
+}
 
 
 strong {

@@ -3,25 +3,27 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+h1{
+
+    font-size: 32px;
+    font-family: 'Dosis', sans-serif;
+    color: #3F3D56;
+    margin-bottom: 72px;
+}
+
 h1 span {
     font-weight: bold;
 }
 
-#wave{
-    width: 1024px;
-    height: 104px;
-    flex-shrink: 0;
-    margin: center;
+#globo{
+    width: 592px;
+    margin: auto;
+
 }
 
-
-
-h1{
-    font-size: 32px;
-    font-family: 'Dosis', sans-serif;
-    color: #3F3D56;
+#globo img{
+    margin-bottom: 72px;
 }
-
 
 p{  
     font-family: 'Open Sans', sans-serif;
